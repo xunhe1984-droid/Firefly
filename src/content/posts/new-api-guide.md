@@ -3,8 +3,8 @@ title: New API 使用手册（本机部署）
 published: 2026-09-01
 updated: 2026-09-01
 description: 在 macOS 本机部署 New API，并配置 OpenAI 兼容客户端与免费渠道。
-image: ./images/new-api-guide.png
-tags: [New API, 自托管, API, 教程]
+image: ./images/new-api-guide.avif
+tags: [AI部署, New API, 自托管, API, 教程]
 category: 技术实践
 slug: new-api-guide
 ---
@@ -59,7 +59,7 @@ api_key: sk-xxxx（你的令牌）
 model: ds4 / minimax-m3 / hy3 ...
 ```
 
-## 四、当前免费渠道池
+## 四、当前免费渠道池：示例
 
 | 渠道 | Base URL | 状态 |
 |---|---|---|
