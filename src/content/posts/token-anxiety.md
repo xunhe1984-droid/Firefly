@@ -10,11 +10,9 @@ slug: token-anxiety
 draft: false
 ---
 
-写代码写到一半，先看一眼剩余额度；遇到稍微复杂的问题，又开始琢磨这次要花多少 Token。工具本来是用来省心的，用着用着，却多了一件需要惦记的事。
+最近攒了一些 AI 工具的免费额度和低价套餐信息，散在收藏夹和聊天记录里，找起来挺麻烦，干脆整理成一篇。
 
-这篇把我平时留意的免费额度、低价套餐和试用入口收拢到一起。需要时翻一翻，选一两个适合自己的工具就够了，不必每个平台都注册一遍。
-
-> 个人整理，更新于 **2026-09-20**。文中的额度与优惠是整理时的记录，活动可能变化；涉及订阅的，记得留意试用期限和续费时间。
+下面一共九款，免费、试用、付费的都有，顺手附上领取方式和一些使用笔记。活动不一定一直有，碰到能用的就试试。绑卡试用的记得取消续费，这个最容易忘。
 
 ## 一、先看这张表
 
@@ -28,7 +26,7 @@ draft: false
 | WorkBuddy | 国际版绑卡可试用 7 天 Pro | [WorkBuddy 邀请链接](https://workbuddy.ai/invite?code=ZVA8L3WT) |
 | 智谱 AutoClaw | 下载登录送额度，周末额度较多 | [AutoClaw](https://autoclaw.z.ai/) |
 | Command Code | 面向开源模型的终端智能体，1 美元起 | [Command Code](https://commandcode.ai/) |
-| OpenCode | 开源智能体；可选 Go 套餐首月 5 美元，之后 10 美元/月 | [OpenCode](https://opencode.ai/) |
+| OpenCode | 开源智能体；可选 Go 套餐 10 美元/月 | [OpenCode](https://opencode.ai/) |
 
 ## 二、工具与使用笔记
 
@@ -116,7 +114,7 @@ Command Code 面向开源模型，主要在终端里使用。整理时的订阅�
 
 OpenCode 是开源 AI 编程智能体，支持终端、IDE 和桌面端。**使用工具本身不要求订阅 Go**，可以接入自己的模型服务。
 
-如果想使用它提供的低价订阅，**OpenCode Go 首月为 5 美元，之后为 10 美元/月**。这是可选的模型服务套餐，具体额度和支持模型见 [OpenCode Go 说明](https://opencode.ai/v2/docs/console/go)。
+如果想使用它提供的低价订阅，**OpenCode Go 为 10 美元/月**。这是可选的模型服务套餐，具体额度和支持模型见 [OpenCode Go 说明](https://opencode.ai/v2/docs/console/go)。
 
 - [OpenCode 官网](https://opencode.ai/)
 
