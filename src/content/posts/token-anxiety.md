@@ -22,7 +22,7 @@ draft: false
 | Zed / Delta | Zed Pro 试用 14 天，含 5 美元试用额度，两款产品共享 | [Zed](https://zed.dev/) · [Delta](https://delta.dev/) |
 | Kiro | 首次升级付费套餐可获 20 美元抵扣；Pro 每月 1000 积分 | [Kiro](https://kiro.dev/) |
 | Antigravity | 使用谷歌 Gemini，个人整理中的低成本方案 | [Antigravity](https://antigravity.google/) |
-| AtomCode | 每周有免费 Token Plan 可领取 | [AtomCode](https://atomcode.atomgit.com/) |
+| AtomCode | 每周有免费 Token Plan 可领取 | [AtomCode](https://atomcode.atomgit.com?invite=DGYBD7UB) |
 | WorkBuddy | 国际版绑卡可试用 7 天 Pro | [WorkBuddy 邀请链接](https://workbuddy.ai/invite?code=ZVA8L3WT) |
 | 智谱 AutoClaw | 下载登录送额度，周末额度较多 | [AutoClaw](https://autoclaw.z.ai/) |
 | Command Code | 面向开源模型的终端智能体，1 美元起 | [Command Code](https://commandcode.ai/) |
@@ -84,7 +84,7 @@ AtomCode 是一个 Agent 项目，个人使用体验还不错。**每周都有�
 
 免费额度拿来处理日常小任务、体验不同模型，往往已经够用。遇到更复杂的工作，再决定是否切换到其他工具。
 
-- [AtomCode 官网](https://atomcode.atomgit.com/)
+- [AtomCode 邀请链接](https://atomcode.atomgit.com?invite=DGYBD7UB)
 
 ### 6. WorkBuddy：国际版有 7 天 Pro 试用
 
